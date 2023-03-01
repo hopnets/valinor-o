@@ -1,0 +1,10 @@
+*.pyc
+*.png
+.vscode/
+__pycache__
+.ipynb_checkpoints
+nohup.out
+*.out
+*.aux
+*.tex
+*.log
